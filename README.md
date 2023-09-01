@@ -1,3 +1,14 @@
 # Hello there!
 
-I am Cramzzzberry. My real name is Jan Roe Bantuan. 
+I am Jan Roe Bantuan, currently a Frontend Web Developer and a soon-to-be Fullstack Web Developer.\
+
+I Created [Almost Material Plugin: A component library for Tailwind CSS](https://github.com/Cramzzzberry/almost-material-plugin)
+
+My Tech Stacks:
+- Frontend Frameworks:
+    - [Angular](https://angular.io/)
+    - [Next.js](https://nextjs.org/)
+- Backend Framework:
+    - Currently learning [Django](https://www.djangoproject.com/)
+- CSS Framework:
+    - [Tailwind CSS](https://tailwindcss.com/)
