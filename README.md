@@ -1,10 +1,10 @@
 # Hello there!
 
-I am Jan Roe Bantuan, currently a Frontend Web Developer and a soon-to-be Fullstack Web Developer.\
+I am Jan Roe Bantuan, currently a Frontend Web Developer and a soon-to-be Fullstack Web Developer.
 
 I Created [Almost Material Plugin: A component library for Tailwind CSS](https://github.com/Cramzzzberry/almost-material-plugin)
 
-My Tech Stacks:
+My Web Tech Stacks:
 - Frontend Frameworks:
     - [Angular](https://angular.io/)
     - [Next.js](https://nextjs.org/)
