@@ -8,7 +8,7 @@ My Web Tech Stacks:
 - Frontend Frameworks:
     - [Angular](https://angular.io/)
     - [Next.js](https://nextjs.org/)
-    - soon to learn [SvelteKit](https://kit.svelte.dev/), currently learning [Svelte](https://svelte.dev/)
+    - [SvelteKit](https://kit.svelte.dev/) soon... currently learning [Svelte](https://svelte.dev/)
 - Backend Framework:
     - Currently learning [Django](https://www.djangoproject.com/)
 - CSS Framework:
