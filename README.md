@@ -1,6 +1,6 @@
 # Hello there!
 
-I am Jan Roe Bantuan, currently a Frontend Web Developer that wants to be Fullstack Web Developer, and also Indie Game Developer.
+I am Jan Roe Bantuan, I create a simple but impactful design.
 
 I Created [Almost Material Plugin: A component library for Tailwind CSS](https://github.com/Cramzzzberry/almost-material-plugin) and a very basic dictionary [WordX](https://github.com/Cramzzzberry/wordx).
 
