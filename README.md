@@ -1,6 +1,6 @@
 # Hello there!
 
-I am Jan Roe Bantuan, A graduate of Bulacan State University as a Bachelor of Science in Information Technology. I love developing web apps and I create 2d games as my hobby.
+I am Jan Roe Bantuan. I love developing web apps and I create 2d games as my hobby.
 
 Current Web Tools:
 - Frontend Frameworks and Libraries:
