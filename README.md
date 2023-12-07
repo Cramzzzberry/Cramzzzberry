@@ -16,6 +16,9 @@ Current Web Tools:
     - [Laravel](https://laravel.com/)
 
 Other skills and tools:
+- MySQL
+- PostgreSQL
+- RESTful API
 - C++
 - Java
 - Python
