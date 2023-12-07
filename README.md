@@ -10,6 +10,10 @@ Current Web Tools:
 - CSS Framework:
     - [Tailwind CSS](https://tailwindcss.com/)
     - [Bootstrap](https://getbootstrap.com/)
+- Backend Frameworks:
+    - Currently learning [Express JS](https://expressjs.com/)
+    - [Django](https://www.djangoproject.com/)
+    - [Laravel](https://laravel.com/)
 
 Other skills and tools:
 - C++
