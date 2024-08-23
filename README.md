@@ -1,6 +1,4 @@
-# Hello there!
-
-I am Jan Roe Bantuan. I love developing web apps and I create 2d games as my hobby.
+### You've stumbled upon my hobbies  
 
 Current Web Tools:
 - Frontend Frameworks and Libraries:
@@ -9,7 +7,7 @@ Current Web Tools:
 - CSS Framework:
     - [Tailwind CSS](https://tailwindcss.com/)
 - Backend Frameworks:
-    - Currently learning [Express JS](https://expressjs.com/)
+    - [Express JS](https://expressjs.com/)
     - [Django](https://www.djangoproject.com/)
     - [Laravel](https://laravel.com/)
 
